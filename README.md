@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm mStenz</h1>
 <h3 align="center">A computer science student at HTL Leonding</h3>
 
-- 🌱 I’m currently learning **Quarkus/Spring**
+- 🌱 I’m currently configuring my **kubernetes cluster**
 
 - 💬 Ask me about **Kotlin**
 
