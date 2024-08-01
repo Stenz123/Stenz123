@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm mStenz</h1>
 <h3 align="center">A computer science student at HTL Leonding</h3>
 
-- 🌱 I’m currently configuring my **kubernetes cluster**
+- 🌱 I’m currently configuring my **my gentoo setup**
 
 - 💬 Ask me about **Kotlin**
-
-- 📫 How to reach me **michael.stenz2006@gmail.com**
 
 - ⚡ Fun fact **I play DnD and Mtg**
 
