@@ -31,7 +31,7 @@ I'm having fun with:
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dracula&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dracula&date_format=j%2Fn%5B%2FY%5D)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=anhyskp36ewpz8tr3dps4uzg5&unique={true|1|on|yes})
 
 ###
