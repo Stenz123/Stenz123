@@ -11,7 +11,7 @@ I'm having fun with:
 ###
 
 <div align="left">
-  <p align="left">❤️:</p>
+  <h3 align="left">❤️:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain.svg" height="40" alt="gentoo logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
