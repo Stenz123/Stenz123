@@ -35,5 +35,5 @@ I'm having fun with:
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=anhyskp36ewpz8tr3dps4uzg5&unique={true|1|on|yes})
 
 ## Coding Stats (last 30 days)
-![image](https://wakapi.stenz.dev/api/badge/michael/michael/interval:30_days?label=last 30d)
+  <img src="https://wakapi.stenz.dev/api/badge/michael/michael/interval:30_days?label=last 30d">
 ###
